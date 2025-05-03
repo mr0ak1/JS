@@ -22,7 +22,7 @@ chair()
 
 const sum = (num1,num2) =>  num1 + num2;
 
-console.log(sum(3,4)); // This will print the sum of 3 and 4
+console.log(sum(31,41)); // This will print the sum of 3 and 4
 
 // for imediate return of or execution of function
 
